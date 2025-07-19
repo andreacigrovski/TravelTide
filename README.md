@@ -2,7 +2,9 @@
 Mastery Project Travel Tide
 📂 TravelTide Rewards Program Project
 Google Advanced Data Analytics Certificate – Final Project Submission
+
 Analyst: Andrea Cigrovski
+
 Date: July 2025
 
 📋 Project Summary
