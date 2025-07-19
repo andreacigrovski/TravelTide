@@ -48,4 +48,4 @@ Perk Assignment – Assigned best-fit perk based on cluster behavior and engagem
 Recommendations – Proposed data-driven strategies to improve the rewards program
 
 🔗 Presentation Link
-[Insert your Google Slides link here when ready]
+https://docs.google.com/presentation/d/1mtzob9_nWY_cX3mj2V5Caus432pFrp68bDfETFGcAlE/edit?usp=sharing
